@@ -10,7 +10,7 @@ body {
     margin: 10px; /* Espaciado externo opcional */
     padding: 10px;
     text-align: center;
-    height: 60px; /* Espacio para 1-2 líneas de texto */
+    height: auto /* Espacio para 1-2 líneas de texto */
 }
 
 .header img { 
